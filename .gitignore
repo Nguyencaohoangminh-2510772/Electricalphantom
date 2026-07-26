@@ -1,0 +1,13 @@
+# Chặn các thư mục thư viện tự sinh (rất nặng, không push lên Git)
+node_modules/
+vendor/
+.venv/
+
+# Chặn các file môi trường chứa mật khẩu, token bảo mật cá nhân
+.env
+.env.local
+*.env.json
+
+# Chặn file rác của hệ điều hành
+.DS_Store
+Thumbs.db
