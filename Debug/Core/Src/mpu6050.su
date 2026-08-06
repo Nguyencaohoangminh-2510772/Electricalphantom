@@ -1,0 +1,11 @@
+mpu6050.c:15:19:MPU_WRITEREG	24	static
+mpu6050.c:27:19:MPU_READREG	16	static
+mpu6050.c:47:19:MPU_READREGS	16	static
+mpu6050.c:67:12:MPU_Check	16	static
+mpu6050.c:84:12:MPU_SetAccelRange	16	static
+mpu6050.c:117:12:MPU_SetGyroRange	16	static
+mpu6050.c:150:12:MPU_Init	8	static
+mpu6050.c:195:12:MPU_ReadAccelRaw	24	static
+mpu6050.c:216:12:MPU_ReadGyroRaw	24	static
+mpu6050.c:237:12:MPU_ReadTempRaw	24	static
+mpu6050.c:255:12:MPU_ReadData	48	static
